@@ -1,5 +1,5 @@
 # CKA-Study Guide
-The following guide is based on the Certified Kubernetes Administrator Exam Curriculum 1.13.0 and consists of the following sections:
+The following guide is based on the Certified Kubernetes Administrator Exam Curriculum 1.14.1 and consists of the following sections:
 
 ### [Revision Topics](https://github.com/David-VTUK/CKA-StudyGuide/tree/master/RevisionTopics)
 
@@ -11,7 +11,7 @@ To complement the revision topics, these lab guides are designed to exercise the
 
 ### [Lab Guide - Answers](https://github.com/David-VTUK/CKA-StudyGuide/tree/master/LabGuideAnswers)
 
-These list potential solutions to the tasks listed in the respective lab exercises. **Note:** these provide **one** way of approaching the exercises. There are a number of ways to achieve the same goal. 
+These list potential solutions to the tasks listed in the respective lab exercises. **Note:** these provide **one** way of approaching the exercises. There are a number of ways to achieve the same goal.
 
 ### Resources / References
 
@@ -22,3 +22,7 @@ https://github.com/kelseyhightower/kubernetes-the-hard-way
 https://linuxacademy.com
 
 https://kubernetes.io/docs/
+
+### Contact
+
+Twitter = @VT_UK

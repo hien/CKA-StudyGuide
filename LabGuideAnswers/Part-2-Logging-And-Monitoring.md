@@ -135,7 +135,7 @@ kubectl apply -f https://raw.githubusercontent.com/David-VTUK/CKAExampleYaml/mas
 
 
 
-*   Gather the events from a given pod from this deployment
+*   Gather the events from a given pod from this deployment:
 
 
 ```
@@ -166,7 +166,7 @@ kubectl describe svc nginx-service
 
 
 
-    *   Acquire the list of endpoints associated with this service
+*   Acquire the list of endpoints associated with this service
 
 
 ```
@@ -175,8 +175,7 @@ Endpoints:         10.244.1.73:80,10.244.1.74:80,10.244.2.53:80
 ```
 
 
-
-    *   How are the endpoints determined?
+*   How are the endpoints determined?
 
 
 ```
